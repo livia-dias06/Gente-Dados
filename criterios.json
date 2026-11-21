@@ -1,0 +1,15 @@
+[
+  {"id": "ancord", "nome": "ANCORD ou compromisso de obter em 90 dias", "tipo": "eliminatorio"},
+  {"id": "ensino_medio", "nome": "Ensino médio concluído", "tipo": "eliminatorio"},
+  {"id": "sem_conflito", "nome": "Sem atividade conflitante (consultoria, análise, gestão)", "tipo": "eliminatorio"},
+  {"id": "experiencia_comercial", "nome": "Experiência comercial", "tipo": "desejavel", "peso": 30, "faixas": [
+    {"minimo": 1, "fator": 0.5},
+    {"minimo": 3, "fator": 0.8},
+    {"minimo": 5, "fator": 1.0}
+  ]},
+  {"id": "conhecimento_mercado", "nome": "Conhecimento de mercado financeiro", "tipo": "desejavel", "peso": 25},
+  {"id": "formacao_area", "nome": "Formação na área", "tipo": "desejavel", "peso": 15},
+  {"id": "carteira_propria", "nome": "Carteira própria de contatos", "tipo": "desejavel", "peso": 15},
+  {"id": "meta_equipe", "nome": "Disponibilidade para meta em equipe", "tipo": "desejavel", "peso": 15}
+
+]
