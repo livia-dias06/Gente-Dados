@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=220&section=header&text=Gente%20%e%20Dados&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Onde%20Psicologia%20encontra%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=220&section=header&text=Gente%20e%20Dados&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Onde%20Psicologia%20encontra%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Uma+plataforma+simples+de+Recrutamento+%26+Sele%C3%A7%C3%A3o;RH+%2B+TI+construindo+juntos;Do+levantamento+%C3%A0+demo+em+v%C3%ADdeo)](https://git.io/typing-svg)
 
